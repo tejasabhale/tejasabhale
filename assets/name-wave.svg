@@ -1,0 +1,33 @@
+<svg width="465" height="66" viewBox="0 0 465 66" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hi, I'm Tejas Abhale">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="55%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#6366F1" flood-opacity="0.25"/>
+    </filter>
+    <style>
+      .letter {
+        font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+        font-weight: 800;
+        font-size: 42px;
+        fill: url(#nameGrad);
+        filter: url(#softShadow);
+        animation: floatWave 2.2s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+        transform-origin: center;
+      }
+      @keyframes floatWave {
+        0%, 55%, 100% { transform: translateY(0); opacity: 1; }
+        27% { transform: translateY(-12px); opacity: 0.82; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .letter { animation: none; }
+      }
+    </style>
+  </defs>
+  <text>
+    <tspan class="letter" style="animation-delay:0.0s" x="30.0" y="44">H</tspan><tspan class="letter" style="animation-delay:0.06s" x="62.8" y="44">i</tspan><tspan class="letter" style="animation-delay:0.12s" x="75.4" y="44">,</tspan><tspan class="letter" style="animation-delay:0.18s" x="87.1" y="44">&#160;</tspan><tspan class="letter" style="animation-delay:0.24s" x="99.7" y="44">I</tspan><tspan class="letter" style="animation-delay:0.3s" x="114.8" y="44">'</tspan><tspan class="letter" style="animation-delay:0.36s" x="124.9" y="44">m</tspan><tspan class="letter" style="animation-delay:0.42s" x="166.1" y="44">&#160;</tspan><tspan class="letter" style="animation-delay:0.48s" x="178.7" y="44">T</tspan><tspan class="letter" style="animation-delay:0.54s" x="206.4" y="44">e</tspan><tspan class="letter" style="animation-delay:0.6s" x="230.8" y="44">j</tspan><tspan class="letter" style="animation-delay:0.66s" x="243.4" y="44">a</tspan><tspan class="letter" style="animation-delay:0.72s" x="267.7" y="44">s</tspan><tspan class="letter" style="animation-delay:0.78s" x="289.6" y="44">&#160;</tspan><tspan class="letter" style="animation-delay:0.84s" x="302.2" y="44">A</tspan><tspan class="letter" style="animation-delay:0.9s" x="332.4" y="44">b</tspan><tspan class="letter" style="animation-delay:0.96s" x="358.4" y="44">h</tspan><tspan class="letter" style="animation-delay:1.02s" x="384.5" y="44">a</tspan><tspan class="letter" style="animation-delay:1.08s" x="408.8" y="44">l</tspan><tspan class="letter" style="animation-delay:1.14s" x="420.6" y="44">e</tspan>
+  </text>
+</svg>
