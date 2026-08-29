@@ -37,7 +37,7 @@
 ### 🧭 About Me
 
 - 🎓 B.E. in **Artificial Intelligence & Data Science** at Dr. D. Y. Patil Institute of Technology, Pune — CGPA **9.59**
-- 🚀 Building **[Jhep (झेप)](https://github.com/tejasabhale)** — an English-learning platform bringing accessible, interactive education to rural school students
+- 🚀 Building **[Jhep (झेप)](https://project-jhep.vercel.app/)** — an English-learning platform bringing accessible, interactive education to rural school students
 - 🛠️ Working across **frontend UI**, **backend REST APIs**, and **full product builds**, end to end
 - 🔐 Focused on secure, scalable backends — JWT auth, role-based access control, and clean MVC architecture
 - 💡 Strong focus on **clean, professional design** and smooth, purposeful motion
