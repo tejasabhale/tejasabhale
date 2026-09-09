@@ -1,0 +1,54 @@
+name: Profile Stats
+
+# Regenerates assets/stats.svg from the GraphQL API and commits it.
+#
+# Self-hosted on purpose: the popular stats services rate-limit (so cards
+# intermittently render as broken images), theme light, and publish every
+# zero-valued field they know about. assets/_stats_generator.py draws only
+# real, non-zero numbers in the same terminal style as the header.
+#
+# Requires repo secret METRICS_TOKEN — a classic PAT with `read:user` + `repo`.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/metrics.yml"
+      - "assets/_stats_generator.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stats.svg
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python assets/_stats_generator.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/stats.svg; then
+            echo "stats.svg unchanged — nothing to commit"
+          else
+            git add assets/stats.svg
+            git commit -m "chore: refresh profile stats [skip ci]"
+            git push
+          fi

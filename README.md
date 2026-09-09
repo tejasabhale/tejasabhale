@@ -1,134 +1,248 @@
 <div align="center">
 
-<!-- Capsule header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:F97316&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="assets/terminal.svg" alt="Tejas Abhale — AI & Data Science Engineer. Building AI systems, full-stack products, and practical ML workflows." width="100%"/>
 
-<!-- Name: letter-wave bounce animation -->
-<img src="assets/name-wave.svg" alt="Hi, I'm Tejas Abhale" width="465" height="66"/>
-<br/>
-<!-- Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=700&height=28&lines=Full+Stack+Developer+%E2%80%A2+Building+Scalable+Web+Apps" alt="Full Stack Developer" />
-
-<br/>
-
-<!-- Rotating typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=650&height=32&lines=Architecting+scalable+backends+since+day+one;Secure+auth%2C+scalable+backends%2C+clean+UIs;Solving+real+problems" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-<br/>
-
-<!-- Social badges -->
-<p align="center">
-  <a href="https://github.com/tejasabhale"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tejas-abhale-50743128a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abhaletejas2767@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/Tejas55451"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
+<a href="https://github.com/tejasabhale"><img src="https://img.shields.io/badge/GitHub-0B0E14?style=flat-square&logo=github&logoColor=FFFFFF" height="26" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/tejas-abhale-50743128a/"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=flat-square&logo=linkedin&logoColor=56D4FF" height="26" alt="LinkedIn"/></a>&nbsp;
+<a href="https://x.com/Tejas55451"><img src="https://img.shields.io/badge/-0B0E14?style=flat-square&logo=x&logoColor=FFFFFF" height="26" alt="X"/></a>&nbsp;
+<a href="mailto:abhaletejas4@gmail.com"><img src="https://img.shields.io/badge/Email-0B0E14?style=flat-square&logo=gmail&logoColor=EA4335" height="26" alt="Email"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Pune%2C_India-0B0E14?style=flat-square&logo=googlemaps&logoColor=00E58A" height="26" alt="Pune, India"/>
 
 </div>
 
----
-
-### 🧭 About Me
-
-- 🎓 B.E. in **Artificial Intelligence & Data Science** at Dr. D. Y. Patil Institute of Technology, Pune — CGPA **9.59**
-- 🚀 Building **[Jhep (झेप)](https://project-jhep.vercel.app/)** — an English-learning platform bringing accessible, interactive education to rural school students
-- 🛠️ Working across **frontend UI**, **backend REST APIs**, and **full product builds**, end to end
-- 🔐 Focused on secure, scalable backends — JWT auth, role-based access control, and clean MVC architecture
-- 💡 Strong focus on **clean, professional design** and smooth, purposeful motion
-- ⚡ Comfortable owning a project from concept → API → component → deployment
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,py,c,cpp,nodejs,express,react,vite&theme=light" />
 <br/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,mongodb,git,github,postman,vscode&theme=light" />
 
-</div>
+<h3><code>tejas@github:~$ cat ./about.md</code></h3>
 
-<div align="center">
+I'm an **Artificial Intelligence & Data Science undergraduate** who enjoys building things from the ground up — from REST APIs and authentication systems to ML workflows, AI applications, and production-ready web products.
 
-`JWT` &nbsp;•&nbsp; `bcrypt` &nbsp;•&nbsp; `OTP Auth` &nbsp;•&nbsp; `RBAC` &nbsp;•&nbsp; `Cloudinary` &nbsp;•&nbsp; `Mongoose` &nbsp;•&nbsp; `MVC Architecture` &nbsp;•&nbsp; `REST APIs`
+I'm particularly interested in the intersection of **software engineering and AI**: building systems that are useful outside a notebook, exposing them through clean APIs, connecting them to real interfaces, and understanding what happens when they meet real users.
 
-</div>
+Currently exploring **Machine Learning, NLP, MLOps, Generative AI, and agentic systems**, while continuing to strengthen my foundations in **DSA, backend engineering, databases, and system design**.
 
----
+<br/>
 
-### 📊 GitHub Stats
+<h3><code>tejas@github:~$ ./experience --list</code></h3>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tejasabhale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=F97316&text_color=c9d1d9&cache_seconds=86400"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasabhale&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6366F1&line=F97316&point=ffffff" width="100%"/>
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- The snake.yml workflow generates this automatically from your contribution graph -->
-<img src="https://raw.githubusercontent.com/tejasabhale/tejasabhale/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
-<img src="https://raw.githubusercontent.com/tejasabhale/tejasabhale/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
-
-</div>
-
----
-
-### 🌟 Featured Projects
-
-<table width="100%">
+<table>
 <tr>
-<td width="100%" valign="top">
-<h4>🪁&nbsp; झेप (Jhep) — English Learning Platform</h4>
-<img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square"/> <a href="https://project-jhep.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
-<p>An English-learning platform built to bring accessible, interactive education to students in rural schools.</p>
-<ul>
-<li>Built responsive, reusable UIs with <b>React.js</b>, <b>Vite</b>, and <b>Tailwind CSS</b> for student learning and admin workflows</li>
-<li>Developed <b>50+ RESTful APIs</b> with Node.js, Express.js, MongoDB, and Mongoose to manage lessons, topics, users, schools, testimonials, and content</li>
-<li>Integrated <b>Cloudinary</b> for media uploads — lesson thumbnails and educational resources</li>
-<li>Implemented <b>JWT-based authentication</b> and role-based authorization for secure access control</li>
-<li>Built admin dashboard features for managing topics, lessons, featured content, partner schools, testimonials, and users</li>
-</ul>
-<img src="https://img.shields.io/badge/-React-6366F1?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-Vite-F97316?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/-Tailwind-6366F1?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-F97316?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-6366F1?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-F97316?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Cloudinary-6366F1?style=flat-square&logo=cloudinary&logoColor=white"/>
-</td>
+<td width="32%"><b>Full Stack Developer Intern</b><br/><sub>Sproug Hub Foundation · Pune</sub></td>
+<td width="18%"><sub><code>Jul 2026 — present</code></sub></td>
+<td>Working as a Full Stack Developer Intern, contributing to the development of web applications and platform features.</td>
 </tr>
+
 <tr>
-<td width="100%" valign="top">
-<h4>✅&nbsp; TaskFlow — Project Management Platform</h4>
-<img src="https://img.shields.io/badge/Backend-Complete-22C55E?style=flat-square"/> <img src="https://img.shields.io/badge/Frontend-In_Development-F97316?style=flat-square"/>
-<p>A full-stack project management platform. Backend is complete; frontend UI is currently in progress.</p>
-<ul>
-<li>Built <b>50+ RESTful APIs</b> for workspace, project, task, member, and user management using Node.js, Express.js, and MongoDB</li>
-<li>Implemented <b>JWT auth</b> with access/refresh tokens, <b>OTP-based email verification</b>, and bcrypt password hashing</li>
-<li>Added <b>role-based access control</b> (Owner, Admin, Member) with custom middleware and request validation</li>
-<li>Designed MongoDB schemas with Mongoose ODM, plus centralized error handling and reusable middleware for a modular, scalable backend</li>
-</ul>
-<img src="https://img.shields.io/badge/-Node.js-6366F1?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-F97316?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-6366F1?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Mongoose-F97316?style=flat-square&logo=mongoose&logoColor=white"/> <img src="https://img.shields.io/badge/-JWT-6366F1?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-</td>
+<td><b>Tech / Development</b><br/><sub>Devkraft Club</sub></td>
+<td><sub><code>Aug 2026 — present</code></sub></td>
+<td>Working on software projects and contributing to the technical development of applications and club initiatives.</td>
+</tr>
+
+<tr>
+<td><b>AI & ML Development</b><br/><sub>Independent / Academic</sub></td>
+<td><sub><code>2025 — present</code></sub></td>
+<td>Building practical ML and AI projects while exploring NLP, LLM applications, MLOps, and modern AI workflows.</td>
+</tr>
+
+<tr>
+<td><b>Full-Stack Development</b><br/><sub>Independent Projects</sub></td>
+<td><sub><code>2022 — present</code></sub></td>
+<td>Developing production-oriented applications using React, Node.js, Express, MongoDB, REST APIs, authentication, and modern frontend tooling.</td>
 </tr>
 </table>
 
----
+<br/>
+
+<h3><code>tejas@github:~$ ls ./projects/</code></h3>
+
+<table>
+
+<tr>
+
+<td width="50%" height="300" valign="top">
+
+### 📚 Jhep
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+
+**🔗 [Live Demo](https://project-jhep.vercel.app/)**
+
+<ul>
+<li>English learning platform for rural students in Grades 1–10.</li>
+<li>Bilingual Marathi support with lessons, activities, quizzes, and pronunciation guidance.</li>
+<li>Progress-focused learning with multimedia content and school management features.</li>
+<li>Built with React, Vite, Node.js, Express, MongoDB, and Tailwind CSS.</li>
+</ul>
+</td>
+
+<td width="50%" height="300" valign="top">
+
+### 📋 TaskFlow
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `JWT`
+
+<ul>
+<li>Productivity and project-management platform for organizing work and tracking progress.</li>
+<li>Supports workspaces, projects, tasks, members, notifications, and user management.</li>
+<li>Secure authentication with JWT tokens, HTTP-only cookies, OTP verification, and password reset.</li>
+<li>Built with React, Vite, Node.js, Express, MongoDB, and JWT.</li>
+</ul>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" height="300" valign="top">
+
+### 🎟️ Event Booking Website
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+<ul>
+<li>Full-stack platform for event discovery, registration, authentication, and ticket booking.</li>
+<li>Includes OTP email verification, protected REST APIs, and organizer management workflows.</li>
+<li>Provides booking, seat availability, event management, and MongoDB data modeling.</li>
+<li>Built with React, Vite, Tailwind CSS, Node.js, Express, MongoDB, and JWT.</li>
+</ul>
+</td>
+
+<td width="50%" height="300" valign="top">
+
+### 🌱 Krishi Link
+
+`React` `Node.js` `Express` `MongoDB`
+
+<ul>
+<li>Agriculture-focused platform concept connecting farmers, buyers, and logistics services.</li>
+<li>Explores product discovery, collection hubs, transportation, and agricultural supply workflows.</li>
+<li>Designed to address practical challenges in agricultural product movement and coordination.</li>
+<li>Built with React, Node.js, Express, and MongoDB as a real-world solution concept.</li>
+</ul>
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<h3><code>tejas@github:~$ cat ./stack.txt</code></h3>
+
+<table>
+
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/scikit--learn-0B0E14?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-0B0E14?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-0B0E14?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-0B0E14?style=flat-square" alt="Matplotlib"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-0B0E14?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express"/>
+<img src="https://img.shields.io/badge/Flask-0B0E14?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask"/>
+<img src="https://img.shields.io/badge/Java-0B0E14?style=flat-square&logo=openjdk&logoColor=FFFFFF" alt="Java"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-0B0E14?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0B0E14?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0B0E14?style=flat-square&logo=framer&logoColor=FFFFFF" alt="Framer Motion"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQLite-0B0E14?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Tools / DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-0B0E14?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0B0E14?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/Postman-0B0E14?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman"/>
+<img src="https://img.shields.io/badge/Linux-0B0E14?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<h3><code>tejas@github:~$ ./currently-learning</code></h3>
+
+```text
+[+] Machine Learning        [+] MLOps
+
+[+] NLP                     [+] DSA
+
+[+] Generative AI           [+] Backend Engineering
+
+[+] RAG & LLM Applications  [+] System Design
+```
+
+<br/>
+
+<h3><code>tejas@github:~$ ./achievements --verify</code></h3>
+
+```text
+[✓] B.E. Artificial Intelligence & Data Science
+
+    Dr. D. Y. Patil Institute of Technology · 2025 – 2029
+
+    Current CGPA: 9.59
+
+[✓] Active contributor / developer in technical projects
+
+    Full-stack development · AI/ML exploration · Open-source development
+
+[✓] Built and deployed full-stack applications
+
+    React · Node.js · Express · MongoDB · REST APIs
+
+[✓] Solved DSA problems while following structured preparation
+
+    Algorithms · Data Structures · Problem Solving
+
+[✓] Working toward practical Machine Learning & AI engineering
+
+    ML · NLP · Generative AI · MLOps
+```
+
+<br/>
+
+<h3><code>tejas@github:~$ ./connect --now</code></h3>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:6366F1&height=120&section=footer" width="100%"/>
+<a href="https://github.com/tejasabhale"><img src="https://img.shields.io/badge/GitHub-0B0E14?style=for-the-badge&logo=github&logoColor=FFFFFF" height="34" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/tejas-abhale-50743128a/"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=56D4FF" height="34" alt="LinkedIn"/></a>&nbsp;
+<a href="https://x.com/Tejas55451"><img src="https://img.shields.io/badge/-0B0E14?style=for-the-badge&logo=x&logoColor=FFFFFF" height="34" alt="X"/></a>&nbsp;
+<a href="mailto:abhaletejas4@gmail.com"><img src="https://img.shields.io/badge/Email-0B0E14?style=for-the-badge&logo=gmail&logoColor=EA4335" height="34" alt="Email"/></a>
 
-<sub>Building systems end to end: database → API → interface.</sub>
+<br/><br/>
+
+<h3><i>
+Talk is cheap, show me the code!
+</i></h3>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/tejasabhale/tejasabhale/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 </div>
