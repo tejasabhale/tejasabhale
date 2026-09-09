@@ -26,20 +26,20 @@ Currently exploring **Machine Learning, NLP, MLOps, Generative AI, and agentic s
 
 <table>
 <tr>
-<td width="32%"><b>Full Stack Developer Intern</b><br/><sub>Sproug Hub Foundation · Pune</sub></td>
-<td width="18%"><sub><code>Jul 2026 — present</code></sub></td>
-<td>Working as a Full Stack Developer Intern, contributing to the development of web applications and platform features.</td>
-</tr>
-
-<tr>
 <td><b>Tech / Development</b><br/><sub>Devkraft Club</sub></td>
 <td><sub><code>Aug 2026 — present</code></sub></td>
 <td>Working on software projects and contributing to the technical development of applications and club initiatives.</td>
 </tr>
 
 <tr>
+<td width="32%"><b>Full Stack Developer Intern</b><br/><sub>Sproug Hub Foundation · Pune</sub></td>
+<td width="18%"><sub><code>Jul 2026 — present</code></sub></td>
+<td>Working as a Full Stack Developer Intern, contributing to the development of web applications and platform features.</td>
+</tr>
+
+<tr>
 <td><b>AI & ML Development</b><br/><sub>Independent / Academic</sub></td>
-<td><sub><code>2025 — present</code></sub></td>
+<td><sub><code>2026 — present</code></sub></td>
 <td>Building practical ML and AI projects while exploring NLP, LLM applications, MLOps, and modern AI workflows.</td>
 </tr>
 
